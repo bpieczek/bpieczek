@@ -64,4 +64,4 @@
 </p>
 
 <hr />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpieczek&bg_color=00000000" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpieczek&theme=radical" />
