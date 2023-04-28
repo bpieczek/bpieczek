@@ -1,12 +1,12 @@
-# Hi there 👋
+### Hi there 👋
 
 ---
 
-### My name is Bartosz. I am a young ⌨️programmer🖱️ and 📚student📚 who is constantly learning new technologies. I am currently looking for an ⚙️internship⚙️ to improve my 💻skills💻 and see what it's like to work in a real company.
+#### My name is Bartosz. I am a young ⌨️programmer🖱️ and 📚student📚 who is constantly learning new technologies. I am currently looking for an ⚙️internship⚙️ to improve my 💻skills💻 and see what it's like to work in a real company.
 
 ---
 
-## Languages:
+### Languages:
 
 ---
 
@@ -16,7 +16,7 @@
 
 ---
 
-## Frameworks and libraries:
+### Frameworks and libraries:
 
 ---
 
@@ -27,7 +27,7 @@
 
 ---
 
-## Database:
+### Database:
 
 ---
 
@@ -35,7 +35,7 @@
 
 ---
 
-## Editor:
+### Editor:
 
 ---
 
@@ -43,7 +43,7 @@
 
 ---
 
-## Other:
+### Other:
 
 ---
 
@@ -53,7 +53,7 @@
 
 ---
 
-## Contact:
+### Contact:
 
 ---
 
