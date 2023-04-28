@@ -38,14 +38,12 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
+<hr />
+
 <h3 align="center"> Contact </h3>
 <p align="center">
     <a href = "https://discordapp.com/users/536120372928577546">
       <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
-    </a>
-    
-    <a href = "mailto:bartoszpieczek@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   
     <a href = "https://www.facebook.com/100009938498878/">
