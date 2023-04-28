@@ -65,4 +65,4 @@
 
 <hr />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpieczek" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpieczek&langs_count=8" />
