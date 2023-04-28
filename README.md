@@ -1,15 +1,15 @@
 # Hi there 👋
 
-<h4 align="center"> My name is Bartosz. I am a young ⌨️programmer🖱️ and 📚student📚 who is constantly learning new technologies. I am currently looking for an ⚙️internship⚙️ to improve my 💻skills💻 and see what it's like to work in a real company.</h4>
+<h4> My name is Bartosz. I am a young ⌨️programmer🖱️ and 📚student📚 who is constantly learning new technologies. I am currently looking for an ⚙️internship⚙️ to improve my 💻skills💻 and see what it's like to work in a real company.</h4>
 
 ---
 
-### Languages:
-
+<h3 align="center"> Languages </h3>
+<div align="center">
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-
+</div>
 ---
 
 ### Frameworks and libraries:
