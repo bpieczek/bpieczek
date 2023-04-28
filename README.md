@@ -42,8 +42,12 @@
 
 <h3 align="center"> Contact </h3>
 <p align="center">
-  <a href="https://discordapp.com/users/536120372928577546"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href = "mailto:bartoszpieczek@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discordapp.com/users/536120372928577546">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href = "mailto:bartoszpieczek@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href = "https://trello.com/u/bartoszpieczek30">
     <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
   </a>
