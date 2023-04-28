@@ -65,4 +65,4 @@
 
 <hr />
 
-<img style="background:#000000;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpieczek" />
+![bpieczek's GitHub stats](https://github-readme-stats.vercel.app/api?username=bpieczek&show_icons=true&theme=transparent)
