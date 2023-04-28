@@ -65,4 +65,4 @@
 
 <hr />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bpieczek&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpieczek" />
