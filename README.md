@@ -42,13 +42,22 @@
 
 <h3 align="center"> Contact </h3>
 <p align="center">
-    <a href = "https://discordapp.com/users/536120372928577546">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+    <!--<a href = "https://discordapp.com/users/536120372928577546">
       <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
     </a>
+      <a href = "mailto:bartoszpieczek@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  <a href = "https://trello.com/u/bartoszpieczek30"><img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" /> </a>
   
+    <a href = "https://www.linkedin.com/in/bartosz-pieczek-a7b118274/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
     <a href = "https://www.facebook.com/100009938498878/">
       <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" />
-    </a>
+    </a>-->
 </p>
 
 <hr />
