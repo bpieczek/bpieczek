@@ -44,9 +44,13 @@
       <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
     </a>
     
-  <a href = "https://www.facebook.com/100009938498878/">
-    <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" />
-   </a>
+    <a href = "mailto:bartoszpieczek@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  
+    <a href = "https://www.facebook.com/100009938498878/">
+      <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" />
+    </a>
 </p>
 
 <hr />
