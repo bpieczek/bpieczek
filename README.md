@@ -81,6 +81,7 @@
 <hr />
 
 <p align="center">
+  <i>Maybe one day it will look better...</i>
   <img src="https://github-profile-trophy.vercel.app/?username=bpieczek&theme=radical" />
 </p>
 
