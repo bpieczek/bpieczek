@@ -69,10 +69,18 @@
 <hr />
 
 <p align="center">
+  <i>500 commits is my goal!</i>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bpieczek&show_icons=true&hide_border=true&theme=radical" />
 </p>
 
 <hr />
+
+<p align="center">
+  <i>Sleep -> Eat -> Code in JS -> Repeat</i>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpieczek&hide_border=true&theme=radical" />
