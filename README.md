@@ -81,6 +81,12 @@
 <hr />
 
 <p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=bpieczek&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+<hr />
+
+<p align="center">
   <i>Maybe one day it will look better...</i>
 </p>
 <p align="center">
