@@ -69,19 +69,19 @@
 <hr />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bpieczek&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bpieczek&show_icons=true&hide_border=true&theme=radical" />
 </p>
 
 <hr />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpieczek&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpieczek&hide_border=true&theme=radical" />
 </p>
 
 <hr />
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=bpieczek&date_format=M%20j%5B%2C%20Y%5D&theme=radical" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=bpieczek&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&theme=radical" />
 </p>
 
 <hr />
@@ -90,7 +90,7 @@
   <i>Maybe one day it will look better...</i>
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bpieczek&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bpieczek&hide_border=true&theme=radical" />
 </p>
 
 <hr />
