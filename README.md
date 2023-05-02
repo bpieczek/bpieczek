@@ -81,7 +81,7 @@
 <hr />
 
 <p align="center">
-  <i>I Work hard.. not every day but always hard!</i>
+  <i>I work hard... not every day but always hard!</i>
 </p>
 
 <p align="center">
