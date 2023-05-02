@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋</h1>
 
-<h2> My name is Bartosz. I am a young ⌨️programmer🖱️ and 📚student📚 who is constantly learning new technologies. I am currently looking for an ⚙️internship⚙️ to improve my 💻skills💻 and see what it's like to work in a real company.</h2>
+<p> My name is Bartosz. I am a young ⌨️programmer🖱️ and 📚student📚 who is constantly learning new technologies. I am currently looking for an ⚙️internship⚙️ to improve my 💻skills💻 and see what it's like to work in a real company.</p>
 
 <hr />
 
