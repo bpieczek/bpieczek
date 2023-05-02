@@ -81,7 +81,7 @@
 <hr />
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bpieczek" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bpieczek&theme=radical" />
 </p>
 
 <hr />
