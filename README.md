@@ -79,11 +79,7 @@
 <hr />
 
 <p align="center">
-  <i>While(True){<br />
-    Sleep();<br />
-    Eat();<br />
-    Code();<br />
-    }</i>
+  <i>Sleep -> Eat -> Code in JS -> Repeat</i>
 </p>
 
 <p align="center">
