@@ -79,11 +79,11 @@
 <hr />
 
 <p align="center">
-  <i>While(True){</i>
-    <i>Sleep();</i>
-    <i>Eat();</i>
-    <i>Code();v
-    <i>}</i>
+  <i>While(True){<br />
+    Sleep();<br />
+    Eat();<br />
+    Code();<br />
+    }</i>
 </p>
 
 <p align="center">
