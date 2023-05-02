@@ -68,13 +68,13 @@
 <hr />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bpieczek&show_icons=true&theme=shades-of-purple" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bpieczek&show_icons=true&theme=radical" />
 </p>
 
 <hr />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpieczek&theme=shades-of-purple" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpieczek&theme=radical" />
 </p>
 
 <hr />
