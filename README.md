@@ -1,17 +1,12 @@
 <h1 align="center">Hi there 👋</h1>
 
-<p align="center">
-  <img width="440" height="233" src="https://media.discordapp.net/attachments/695239250764890182/1103308205922209864/carbon.png" />
-</p>
-
-<hr />
-
 <h3 align="center"> Languages </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img width="440" height="233" src="https://media.discordapp.net/attachments/695239250764890182/1103308205922209864/carbon.png" />
 </p>
 
 <hr />
