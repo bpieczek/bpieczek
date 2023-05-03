@@ -82,7 +82,7 @@
 <hr />
 
 <p align="center">
-  Sleep => Eat => Code in JS => Repeat
+  <i>Sleep => Eat => Code in JS => Repeat</i>
 </p>
 
 <p align="center">
