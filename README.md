@@ -1,8 +1,9 @@
 <h1 align="center">Hi there 👋</h1>
 
-<h3 align="center"> Languages </h3>
 
 <img width="440" height="233" align="right" src="https://media.discordapp.net/attachments/695239250764890182/1103308205922209864/carbon.png" />
+
+<h3 align="center"> Languages </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
