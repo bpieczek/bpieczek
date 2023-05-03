@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
-<pre>const person = { 
+<pre width="400px">const person = { 
 Name: "Bartosz",
 Age: 19,
 Student: true,
