@@ -1,6 +1,13 @@
-<h1 align="center">const person = {Name:"Bartosz", Age:19, Job:"Programmer", FavouriteLanguage:"JavaScript"};</h1>
+<h1 align="center">Hi there 👋</h1>
 
-<p> My name is Bartosz. I am a young ⌨️programmer🖱️ and 📚student📚 who is constantly learning new technologies. I am currently looking for an ⚙️internship⚙️ to improve my 💻skills💻 and see what it's like to work in a real company.</p>
+<pre>const person = { 
+Name: "Bartosz",
+Age: 19,
+Student: true,
+WannaBe: "Real Programmer",
+FavouriteLanguage: "JavaScript",
+LookingFor: "Internship"
+}</pre>
 
 <hr />
 
