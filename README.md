@@ -1,16 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
-<img width = "50px">
-  <pre>
-    const person = { 
-    Name: "Bartosz",
-    Age: 19,
-    Student: true,
-    WannaBe: "Real Programmer",
-    FavouriteLanguage: "JavaScript",
-    LookingFor: "Internship"
-    }
-  </pre>
-</img>
+<img src="https://media.discordapp.net/attachments/695239250764890182/1103301740234801172/image.png" />
+
 <hr />
 
 <h3 align="center"> Languages </h3>
