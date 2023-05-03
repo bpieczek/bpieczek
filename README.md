@@ -1,7 +1,8 @@
 <h1 align="center">Hi there 👋</h1>
 
-
+<p>
 <img width="440" height="233" align="right" src="https://media.discordapp.net/attachments/695239250764890182/1103308205922209864/carbon.png" />
+</p>
 
 <h3 align="center"> Languages </h3>
 
