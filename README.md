@@ -79,7 +79,12 @@
 <hr />
 
 <p align="center">
-  <i>Sleep -> Eat -> Code in JS -> Repeat</i>
+  <pre>While(True)
+  {
+  Sleep(); 
+  Eat(); 
+  Code_in_JS
+  }<pre>
 </p>
 
 <p align="center">
