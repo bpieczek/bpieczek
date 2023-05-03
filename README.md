@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<p align="center" width="50">
+<object align="center" width="50">
   <pre>
     const person = { 
     Name: "Bartosz",
@@ -10,7 +10,7 @@
     LookingFor: "Internship"
     }
   </pre>
-</p>
+</object>
 <hr />
 
 <h3 align="center"> Languages </h3>
