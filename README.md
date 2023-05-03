@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<p align="center" width="200">
+<p align="center" width="50">
   <pre>
     const person = { 
     Name: "Bartosz",
