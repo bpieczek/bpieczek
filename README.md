@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/695239250764890182/1103306681749876817/carbon.png" />
+  <img width="150" height="60" src="https://media.discordapp.net/attachments/695239250764890182/1103306681749876817/carbon.png" />
 </p>
 
 <hr />
