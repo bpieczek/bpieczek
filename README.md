@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
-<p>
+<p align="right">
 <img width="440" height="233" align="right" src="https://media.discordapp.net/attachments/695239250764890182/1103308205922209864/carbon.png" />
 </p>
 
@@ -12,8 +12,6 @@
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
-
-
 
 <hr />
 
