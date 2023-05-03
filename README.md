@@ -1,14 +1,16 @@
 <h1 align="center">Hi there 👋</h1>
-
-<pre width="10px">const person = { 
-Name: "Bartosz",
-Age: 19,
-Student: true,
-WannaBe: "Real Programmer",
-FavouriteLanguage: "JavaScript",
-LookingFor: "Internship"
-}</pre>
-
+<p align="center">
+  <pre>
+    const person = { 
+    Name: "Bartosz",
+    Age: 19,
+    Student: true,
+    WannaBe: "Real Programmer",
+    FavouriteLanguage: "JavaScript",
+    LookingFor: "Internship"
+    }
+  </pre>
+</p>
 <hr />
 
 <h3 align="center"> Languages </h3>
