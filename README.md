@@ -1,4 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
+<img width = "50px">
   <pre>
     const person = { 
     Name: "Bartosz",
@@ -9,6 +10,7 @@
     LookingFor: "Internship"
     }
   </pre>
+</img>
 <hr />
 
 <h3 align="center"> Languages </h3>
