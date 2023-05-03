@@ -84,7 +84,7 @@
   Sleep(); 
   Eat(); 
   Code_in_JS
-  }<pre>
+  }</pre>
 </p>
 
 <p align="center">
