@@ -8,9 +8,7 @@
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-<p align="right">
-  <img width="440" height="233" src="https://media.discordapp.net/attachments/695239250764890182/1103308205922209864/carbon.png" />
-</p>
+<img width="440" height="233" align="right" src="https://media.discordapp.net/attachments/695239250764890182/1103308205922209864/carbon.png" />
 
 <hr />
 
