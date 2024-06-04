@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/XsAw0o0_d.webp?maxwidth=760&fidelity=grand" />
+  <img src="https://i.imgur.com/B0Q2NkG_d.webp?maxwidth=760&fidelity=grand" />
 </p>
 
 <hr />
