@@ -70,7 +70,7 @@
   </a>
 </p>
 <hr />
-<h3 align="center"> WDI PAGES </h3>
+<h3 align="center"> WDI </h3>
 
 <p align="center">
    <a href = "https://bpieczek.github.io">
@@ -78,6 +78,12 @@
   </a>
   <a href="https://strona-wdi.onrender.com">
     <img src="https://img.shields.io/badge/Strona_na_render-301934?style=for-the-badge&logo=render" alt="Strona na render">
+  </a>
+  <a href="https://https://ieeexplore.ieee.org/abstract/document/10616096">
+    <img src="https://img.shields.io/static/v1?label=&message=Papers+with+code+artyku%C5%82&color=%23111184&style=for-the-badge&logo=google+scholar&logoColor=white" alt="Papers with code artykuł">
+  </a>
+  <a href="https://github.com/bpieczek/fork-flow-models">
+    <img src="https://img.shields.io/static/v1?label=&message=Fork+do+kodu&color=%237a3b30&style=for-the-badge&logo=greasyfork&logoColor=white" alt="Fork do kodu">
   </a>
 </p>
 
