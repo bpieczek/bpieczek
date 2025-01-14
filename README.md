@@ -69,6 +69,17 @@
     <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
   </a>
 </p>
+<hr />
+<h3 align="center"> WDI PAGES </h3>
+
+<p align="center">
+   <a href = "https://bpieczek.github.io">
+    <img src="https://img.shields.io/badge/Strona_na_github_pages-000000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://strona-wdi.onrender.com">
+    <img src="https://img.shields.io/badge/Strona_na_render-301934?style=for-the-badge&logo=render" alt="Strona na render">
+  </a>
+</p>
 
 <hr />
 
