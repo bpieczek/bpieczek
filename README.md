@@ -69,43 +69,5 @@
     <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
   </a>
 </p>
-<hr />
-
-<p align="center">
-  <i>500 commits is my goal!</i>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bpieczek&show_icons=true&hide_border=true&theme=radical" />
-</p>
-
-<hr />
-
-<p align="center">
-  <i>Sleep => Eat => Code in JS => Repeat</i>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpieczek&hide_border=true&theme=radical" />
-</p>
-
-<hr />
-
-<p align="center">
-  <i>I work hard... not every day but always hard!</i>
-</p>
-
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=bpieczek&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&theme=radical" />
-</p>
-
-<hr />
-
-<p align="center">
-  <i>Maybe one day it will look better...</i>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bpieczek&hide_border=true&theme=radical" />
-</p>
 
 <hr />
